@@ -1,0 +1,27 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "procAutov01",
+    "owner": "wei bin ",
+    "description": "Prioritizes game processes to the top of the list",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Proc Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.4.1",
+        "cells": [],
+        "description": "up proc for games"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Wei Bin",
+    "threatTop": 0
+  }
+}
